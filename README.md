@@ -42,6 +42,10 @@ I build Python-based automation, ETL pipelines, and cloud data solutions that de
 > Lambda function publishing custom directory size metrics to CloudWatch
 > **Real-time storage visibility — zero surprise outages**
 
+### 🔍 [SystemCheck — Health Monitoring Framework](https://github.com/engysamaan/SystemCheck)
+> Automated monitoring — Selenium login validation, real-time Slack alerts, PostgreSQL audit trail
+> **From reactive to proactive — team knew about problems before users did**
+
 ---
 
 ## 🛠️ Tech Stack
